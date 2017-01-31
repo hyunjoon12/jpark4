@@ -69,7 +69,6 @@ anova(lm3)
 library(ppcor)
 pcor (digit[c("digit",'age1','age2','age3')])
 
-anova(lm3)
 
 
 
